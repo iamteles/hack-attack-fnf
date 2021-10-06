@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Neon_Apatite_Portrait.png"><SubTexture name="Neon_Apatite_Portrait Smug0000" x="0" y="0" width="293" height="394" frameX="0" frameY="0" frameWidth="293" frameHeight="394" />
+<SubTexture name="Neon_Apatite_Portrait Huh0000" x="293" y="0" width="293" height="394" frameX="0" frameY="0" frameWidth="293" frameHeight="394" />
+<SubTexture name="Neon_Apatite_Portrait M0000" x="0" y="394" width="293" height="394" frameX="0" frameY="0" frameWidth="293" frameHeight="394" />
+<SubTexture name="Neon_Apatite_Portrait Lmao0000" x="293" y="394" width="293" height="394" frameX="0" frameY="0" frameWidth="293" frameHeight="394" />
+<SubTexture name="Neon_Apatite_Portrait NotBad0000" x="0" y="788" width="293" height="394" frameX="0" frameY="0" frameWidth="293" frameHeight="394" />
+</TextureAtlas>

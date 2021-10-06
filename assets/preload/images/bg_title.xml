@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Start menu.png"><SubTexture name="Start menu bg0000" x="0" y="0" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0001" x="2278" y="0" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0002" x="4556" y="0" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0003" x="6834" y="0" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0004" x="9112" y="0" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0005" x="0" y="1323" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0006" x="2278" y="1323" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0007" x="4556" y="1323" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0008" x="6834" y="1323" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0009" x="9112" y="1323" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0010" x="0" y="2646" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0011" x="2278" y="2646" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0012" x="4556" y="2646" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0013" x="6834" y="2646" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0014" x="9112" y="2646" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0015" x="0" y="3969" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0016" x="2278" y="3969" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0017" x="4556" y="3969" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0018" x="6834" y="3969" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0019" x="9112" y="3969" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0020" x="0" y="5292" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0021" x="2278" y="5292" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0022" x="4556" y="5292" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0023" x="6834" y="5292" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0024" x="9112" y="5292" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0025" x="0" y="6615" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0026" x="2278" y="6615" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0027" x="4556" y="6615" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0028" x="6834" y="6615" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+<SubTexture name="Start menu bg0029" x="9112" y="6615" width="2278" height="1323" frameX="0" frameY="0" frameWidth="2278" frameHeight="1323" />
+</TextureAtlas>

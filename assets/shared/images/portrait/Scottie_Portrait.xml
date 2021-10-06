@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scottie_Portrait.png"><SubTexture name="Scottie_Portrait No0000" x="0" y="0" width="413" height="489" frameX="0" frameY="0" frameWidth="413" frameHeight="489" />
+<SubTexture name="Scottie_Portrait Sad0000" x="413" y="0" width="413" height="489" frameX="0" frameY="0" frameWidth="413" frameHeight="489" />
+<SubTexture name="Scottie_Portrait Please0000" x="0" y="489" width="413" height="489" frameX="0" frameY="0" frameWidth="413" frameHeight="489" />
+<SubTexture name="Scottie_Portrait Yay0000" x="413" y="489" width="413" height="489" frameX="0" frameY="0" frameWidth="413" frameHeight="489" />
+<SubTexture name="Scottie_Portrait Hal0000" x="0" y="978" width="413" height="489" frameX="0" frameY="0" frameWidth="413" frameHeight="489" />
+</TextureAtlas>
